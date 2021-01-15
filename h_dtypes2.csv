@@ -1,0 +1,10 @@
+,Unnamed: 0,0
+0,Pregnancies,int64
+1,Glucose,int64
+2,BloodPressure,int64
+3,SkinThickness,int64
+4,Insulin,int64
+5,BMI,float64
+6,DiabetesPedigreeFunction,float64
+7,Age,int64
+8,Outcome,int64
